@@ -1,0 +1,3 @@
+FROM solsson/kafka-initutils@sha256:f6d9850c6c3ad5ecc35e717308fddb47daffbde18eb93e98e031128fe8b899ef
+
+MAINTAINER hklhai
